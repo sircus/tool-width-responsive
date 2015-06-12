@@ -1,0 +1,30 @@
+{
+  "name": "sircus-tools-width-responsive",
+  "description": "A width responsive tools Module for Sircus.",
+  "version": "0.0.1",
+  "homepage": "http://sircus.github.io",
+  "keywords": [
+    "scalability",
+    "maintainability",
+    "designability",
+    "css"
+  ],
+  "author": {
+    "name": "Yasuyuki Enomoto",
+    "url": "http://blivesta.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sircus/tools-width-responsive.git"
+  },
+  "scripts": {
+    "build": "css2scss ./index.css ./_converted.scss"
+  },
+  "dependencies": {
+    "sircus-global-property": "^0.0.1"
+  },
+  "devDependencies": {
+    "sircus-process-css2scss": "^0.2.0"
+  }
+}
