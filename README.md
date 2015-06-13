@@ -14,7 +14,7 @@
 > use npm:
 
 ```bash
-$ npm install sircus-tools-width-responsive && npm install sircus-global-proprety
+$ npm install sircus-tools-width-responsive sircus-global-proprety
 ```
 
 ## Usage
