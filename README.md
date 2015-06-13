@@ -14,7 +14,7 @@
 > use npm:
 
 ```bash
-$ npm install sircus-tools-width-responsive
+$ npm install sircus-tools-width-responsive && npm install sircus-global-proprety
 ```
 
 ## Usage
@@ -23,14 +23,16 @@ $ npm install sircus-tools-width-responsive
 
 input.css
 ```css
-@import "sircus-tools-width-responsive"
+@import "sircus-tools-width-responsive";
+@import "sircus-global-proprety";
 ```
 
 > use sass:
 
 input.scss
 ```css
-@import "node_modules/sircus-tools-width-responsive/converted"
+@import "node_modules/sircus-global-proprety/converted";
+@import "node_modules/sircus-tools-width-responsive/converted";
 ```
 
 
