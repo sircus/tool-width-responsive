@@ -37,7 +37,7 @@ input.scss
 > html
 
 ```html
-<div class="t-width[1-10]of[2-10]"></div>
+<div class="t-[sm|md|lg]-width[1-10]of[2-10]"></div>
 ```
 
 
