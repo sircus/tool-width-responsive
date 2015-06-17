@@ -19,7 +19,10 @@
     "url": "https://github.com/sircus/tools-width-responsive.git"
   },
   "scripts": {
-    "build": "css2scss ./index.css ./_converted.scss"
+    "build:sm": "css2scss ./lib/sm.css ./scss/_sm.scss",
+    "build:md": "css2scss ./lib/md.css ./scss/_md.scss",
+    "build:lg": "css2scss ./lib/lg.css ./scss/_lg.scss",
+    "build": "npm run build:sm && npm run build:md && npm run build:lg"
   },
   "dependencies": {
     "sircus-global-property": "^0.0.1"
