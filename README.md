@@ -2,9 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-width-responsive.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-width-responsive)
 
-
-> A responsive width tools Module for Sircus.
-
 ## Dependencies
 - [sircus-global-property](https://github.com/sircus/global-property)
 
