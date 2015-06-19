@@ -1,13 +1,14 @@
 {
   "name": "sircus-tools-width-responsive",
-  "description": "A width responsive tools Module for Sircus.",
-  "version": "0.0.1",
+  "description": "Responsive css width tools Module for Sircus.",
+  "version": "0.0.2",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalability",
-    "maintainability",
-    "designability",
-    "css"
+    "scalabe",
+    "design",
+    "css",
+    "cssnext",
+    "rwd"
   ],
   "author": {
     "name": "Yasuyuki Enomoto",
