@@ -24,7 +24,7 @@
   .t-md-width4of10 { width: 40% !important; }
   .t-md-width3of7  { width: 42.85714% !important; }
   .t-md-width4of9  { width: 44.44444% !important; }
-  .t-md-width1of2,
+  .t-md-widthHalf,
   .t-md-width2of4,
   .t-md-width3of6,
   .t-md-width4of8,
@@ -49,13 +49,5 @@
   .t-md-width7of8  { width: 87.5% !important; }
   .t-md-width8of9  { width: 88.88889% !important; }
   .t-md-width9of10 { width: 90% !important;}
-  .t-md-width2of2,
-  .t-md-width3of3,
-  .t-md-width4of4,
-  .t-md-width5of5,
-  .t-md-width6of6,
-  .t-md-width7of7,
-  .t-md-width8of8,
-  .t-md-width9of9,
-  .t-md-width10of10  { width: 100% !important; }
+  .t-md-widthFull  { width: 100% !important; }
 }
