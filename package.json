@@ -1,18 +1,17 @@
 {
   "name": "sircus-tools-width-responsive",
-  "description": "Responsive css width tools Module for Sircus.",
-  "version": "0.1.0",
+  "description": "Module For Responsive CSS Column Widths.",
+  "version": "1.0.0",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalable",
-    "design",
     "css",
-    "module",
-    "cssnext",
+    "design",
+    "modular",
+    "scalable",
     "rwd"
   ],
   "author": {
-    "name": "Yasuyuki Enomoto",
+    "name": "blivesta",
     "url": "http://blivesta.com"
   },
   "license": "MIT",
