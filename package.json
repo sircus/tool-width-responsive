@@ -25,9 +25,6 @@
     "build:lg": "css2scss ./lib/lg-width.css ./scss/_lg-width.scss",
     "build": "npm run build:sm && npm run build:md && npm run build:lg"
   },
-  "dependencies": {
-    "sircus-global-property": "^0.0.1"
-  },
   "devDependencies": {
     "sircus-process-css2scss": "^0.2.0"
   }
